@@ -11,7 +11,7 @@
 
 ### Find me here ! 🌍
 
-[![Twitter Badge](https://img.shields.io/badge/-@GreenDu39209275-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GreenDu39209275)](https://twitter.com/GreenDu39209275) 
+[![Twitter Badge](https://img.shields.io/badge/-@AwesDuck-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AwesDuck)](https://twitter.com/AwesDuck) 
 [![Gmail Badge](https://img.shields.io/badge/-a.sophinez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:maila.sophinez@gmail.com)](mailto:a.sophinez@gmail.com)
 
 
