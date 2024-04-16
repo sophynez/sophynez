@@ -1,6 +1,6 @@
 ## Hello there, I'm Sophinez 🙌
 
-## Likes working in projects involving  
+## I love working on projects involving  
 ⚡ Machine learning
 
 ⚡ Data science
